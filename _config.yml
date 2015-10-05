@@ -3,29 +3,30 @@
 # ---------------------------------------------------------------
 
 # AMEND_HERE >>> site.title will appear as the html head title
-title: Site title
+title: Yohan Fernando - My Scribble on Dev & Rest
 
 # AMEND_HERE >>> base url need to be defined if used as a website for a project, simply add the
 # name of your repository. If used as a user/organisation page this should be empty.
-baseurl: "/yohanfernando.github-pages.template"
+baseurl: "/yohanfernando.github.io.dev"
 # For User/Organisation pages use empty baseurl
 # baseurl: ""
 
 # AMEND_HERE >>> This description will appear in the footer of your site
 description: > #
- You can add a description to this section to explain the blog or your self.
+ I'm Yohan Fernando - a developer, a husband & a newby father and this is my scribble on
+ dev & everything that interests me.
 
 # AMEND_HERE >>> Site owner details
-site_owner: Your Name
-site_owner_email: youremail@domain.com
-site_strapline: a cool strap line for the site
+site_owner: Yohan Fernando
+site_owner_email: yohandmf (at) gmail (dot) com
+site_strapline: my scribble on dev & rest
 
 # AMEND_HERE >>> url of your site (where index.html) can be seen
-url: "http://your-github-repo.github.io/yohanfernando.github-pages.template"
+url: "http://yohanfernando.github.io/yohanfernando.github.io.dev"
 
 # AMEND_HERE >>> Add your social media details
-twitter_username: twitter_handle
-github_username:  github_handle
+twitter_username: yohanfernando
+github_username:  yohanfernando
 
 
 defaults:
@@ -35,7 +36,7 @@ defaults:
     values:
       layout: "post"
       # AMEND_HERE >>> Add your name as the author
-      author: "Your name"
+      author: "Yohan Fernando"
 
 
 # AMEND the _SCSS / variables >>>

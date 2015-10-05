@@ -7,14 +7,16 @@
 
 // AMEND_HERE >>>
 // Set a background image of your preference, lager the better to cover big screens
-$header-background-image: 'https://static.pexels.com/photos/6894/summer-photographer-pier-adventure-large.jpg';
+//$header-background-image: '../images/background-nelum-in-hand.jpg';
+//$header-background-image: '../images/background-hadun-kuru.jpg';
+$header-background-image: '../images/background-door.jpg';
 
 // AMEND_HERE >>>
 // Set site owner/author thumbnail image (picture of your face/persona)
 // The thumbnail needs to be on three sizes as below
-$site-owner-thumb-lg: 'http://placehold.it/400x400&text=[FACE]';
-$site-owner-thumb-md: 'http://placehold.it/300x300&text=[FACE]';
-$site-owner-thumb-sm: 'http://placehold.it/200x200&text=[FACE]';
+$site-owner-thumb-lg: '../images/yohan400x400.jpg';
+$site-owner-thumb-md: '../images/yohan300x300.jpg';
+$site-owner-thumb-sm: '../images/yohan200x200.jpg';
 
 //Set font-family:
 $body-font-family: 'Open Sans', sans-serif;
