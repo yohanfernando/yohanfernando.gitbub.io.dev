@@ -7,9 +7,9 @@ title: Yohan Fernando - My Scribble on Dev & Rest
 
 # AMEND_HERE >>> base url need to be defined if used as a website for a project, simply add the
 # name of your repository. If used as a user/organisation page this should be empty.
-baseurl: "/yohanfernando.github.io.dev"
+# baseurl: "/yohanfernando.github.io.dev"
 # For User/Organisation pages use empty baseurl
-# baseurl: ""
+baseurl: ""
 
 # AMEND_HERE >>> This description will appear in the footer of your site
 description: > #
