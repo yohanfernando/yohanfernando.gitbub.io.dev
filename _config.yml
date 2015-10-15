@@ -21,8 +21,9 @@ site_owner: Yohan Fernando
 site_owner_email: yohandmf (at) gmail (dot) com
 site_strapline: my scribble on dev & rest
 
-# AMEND_HERE >>> url of your site (where index.html) can be seen
-url: "http://yohanfernando.github.io/yohanfernando.github.io.dev"
+# AMEND_HERE >>> url for your base repo (i.e.- username.github.io)
+# e.g. - url: "http://your-github-repo.github.io"
+url: "http://yohanfernando.github.io"
 
 # AMEND_HERE >>> Add your social media details
 twitter_username: yohanfernando
